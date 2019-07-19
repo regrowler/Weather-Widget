@@ -8,7 +8,7 @@ First one response for alpha of backround of widget, you can make it fully visib
 Takes a float as parameter.
 Second one switch metric units of temp in widget, takes two defined strings: metric or imperial.
 
-![alt text](http://ikosmov.hldns.ru:8080/pic?id=w1)
-![alt text](http://ikosmov.hldns.ru:8080/pic?id=w2)
-![alt text](http://ikosmov.hldns.ru:8080/pic?id=w3)
-![alt text](http://ikosmov.hldns.ru:8080/pic?id=w4)
+![alt text](http://ikosmov.hldns.ru:8080/pic?id=w1)  
+![alt text](http://ikosmov.hldns.ru:8080/pic?id=w2)  
+![alt text](http://ikosmov.hldns.ru:8080/pic?id=w3)  
+![alt text](http://ikosmov.hldns.ru:8080/pic?id=w4)  
